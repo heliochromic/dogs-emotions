@@ -5,7 +5,7 @@ This project aims to analyze dog emotions using a neural network.
 
 ## Model Evaluation Metrics
 The effectiveness of the model is assessed using the following metrics:
-- **F1-score** - this metrics is used in cause of inbalanced classes in dataset with dogs emotions
+- **F1-score** - this metrics is used in cause of imbalanced classes in dataset with dogs emotions
 - **Confusion Matrix** - this for better understanding of overall metrics of model
 
 ## Neural Network Architecture
